@@ -1,0 +1,74 @@
+﻿@{
+    Layout = "_FreeMovieAdminLayout";
+}
+@model VM_FreeMovie
+
+<style>
+    form div {
+        margin: 20px 0;
+    }
+
+        form div label {
+            font-weight: bold;
+        }
+</style>
+
+
+<form asp-controller="FreeMovie" asp-action="Create" method="post" enctype="multipart/form-data">
+    <div>
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="ReleaseYear" class="form-label"></label>
+        <input asp-for="ReleaseYear" class="form-control" />
+        <span asp-validation-for="ReleaseYear" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="Description" class="form-label"></label>
+        <input asp-for="Description" class="form-control" />
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="IsNew" class="form-check-label"></label>
+        <input asp-for="IsNew" class="form-check-input" />
+        <span asp-validation-for="IsNew" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="ThisWeek" class="form-check-label"></label>
+        <input asp-for="ThisWeek" class="form-check-input" />
+        <span asp-validation-for="ThisWeek" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="IsFree" class="form-check-label"></label>
+        <input asp-for="IsFree" class="form-check-input" />
+        <span asp-validation-for="IsFree" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="UserPoint" form-label"></label>
+        <input asp-for="UserPoint" class="form-control" />
+        <span asp-validation-for="UserPoint" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="CategoryId" class="form-label"></label>
+        <select asp-for="CategoryId" asp-items="@ViewBag.SelectList" class="form-select">
+            <option>Seçiniz</option>
+        </select>
+        <span asp-validation-for="CategoryId" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label for="freemovieImages" class="form-label">Resim</label>
+        <input class="form-control" type="file" name="freemovieImages" id="freemovieImages" multiple accept="image/*">
+    </div>
+
+    <div class="mb-3">
+        <label for="bannerImages" class="form-label">Banner Resmi</label>
+        <input class="form-control" type="file" name="bannerImages" id="bannerImages" multiple accept="image/*">
+    </div>
+
+    <button class="btn btn-primary w-100 my-2">Add</button>
+</form>

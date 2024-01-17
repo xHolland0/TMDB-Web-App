@@ -1,0 +1,74 @@
+﻿@model TMDB.Models.FreeMovie
+
+@{
+    Layout = "_LayoutDetail";
+}
+
+
+<header>
+    <img src="/img/MovieBanners/@Model.BannerImage" alt="" style="width:100%">
+    <div class="container">
+
+        <div class="poster">
+            <div class="d-flex gap-5">
+
+                <div class="poster-image">
+                    <img class="img-fluid" src="/img/MovieImage/@Model.Image" alt="" height="800" width="400" />
+                </div>
+
+                <div class="text-white" style="width: 900px;">
+                    <h1 class="">
+                        <small class="fw-bold">@Model.Name</small>
+                    </h1>
+
+                    <div class="d-flex gap-1">
+
+                        <div class="circular-progress2">
+                            <div class="value-container2"></div>
+                        </div>
+
+
+                        <ul style="    -webkit-columns: 2; column-gap: 50%;">
+                            <li><p>@Model.ReleaseYear</p></li>
+
+                            <li><p>@Model.Category.Name</p></li>
+                        </ul>
+                    </div>
+
+                    <div class="text-white">
+                        <h3 class="my-3 fw-bold">Açıklama</h3>
+                        <p>@Model.Description</p>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <script>
+        let progressBar = document.querySelector(".circular-progress2");
+        let valueContainer = document.querySelector(".value-container2");
+
+        let progressValue = 0;
+        let progressEndValue = @Model.UserPoint;
+        let speed = 30;
+
+        let progress = setInterval(() => {
+            progressValue++;
+            valueContainer.textContent = `${progressValue}%`;
+            progressBar.style.background = `conic-gradient(
+                     limegreen ${progressValue * 3.6}deg,
+                     rgb(78, 78, 78) ${progressValue * 3.6}deg
+                                              )`;
+            if (progressValue == progressEndValue) {
+                clearInterval(progress);
+            }
+        }, speed);
+
+    </script>
+</header>
+
+
+

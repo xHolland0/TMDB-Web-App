@@ -1,0 +1,305 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TMDB.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TMDB.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\img\\Banner.jpg",
+      "PackagePath": "staticwebassets\\img\\Banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\img\\MovieBanners\\c9930100-3339-4dc6-95fb-ea142825ce54.png",
+      "PackagePath": "staticwebassets\\img\\MovieBanners\\c9930100-3339-4dc6-95fb-ea142825ce54.png"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\img\\MovieBanners\\cce56100-89c2-455c-b7e1-f8c49c22b392.png",
+      "PackagePath": "staticwebassets\\img\\MovieBanners\\cce56100-89c2-455c-b7e1-f8c49c22b392.png"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\img\\MovieBanners\\eed5a41e-65e6-489f-bf91-f069f24da0b3.jpg",
+      "PackagePath": "staticwebassets\\img\\MovieBanners\\eed5a41e-65e6-489f-bf91-f069f24da0b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\img\\MovieImage\\2ff2e5f5-a8a1-4952-b54f-a49397e1f747.jpg",
+      "PackagePath": "staticwebassets\\img\\MovieImage\\2ff2e5f5-a8a1-4952-b54f-a49397e1f747.jpg"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\img\\MovieImage\\a2504fe8-0d9f-454c-b728-c1266fcf0378.jpg",
+      "PackagePath": "staticwebassets\\img\\MovieImage\\a2504fe8-0d9f-454c-b728-c1266fcf0378.jpg"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\img\\MovieImage\\d7ccfe06-9d9b-4514-ab98-57a0d250cf17.jpg",
+      "PackagePath": "staticwebassets\\img\\MovieImage\\d7ccfe06-9d9b-4514-ab98-57a0d250cf17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\img\\glass.png",
+      "PackagePath": "staticwebassets\\img\\glass.png"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\img\\nav-logo.png",
+      "PackagePath": "staticwebassets\\img\\nav-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\okanc\\OneDrive\\Masaüstü\\2024-2025\\Web Development\\2022-2023\\TMDB-Proje\\TMDB\\TMDB\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TMDB.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TMDB.props",
+      "PackagePath": "build\\TMDB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TMDB.props",
+      "PackagePath": "buildMultiTargeting\\TMDB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TMDB.props",
+      "PackagePath": "buildTransitive\\TMDB.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

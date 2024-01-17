@@ -1,0 +1,18 @@
+﻿@{
+    Layout = "_FreeMovieAdminLayout";
+}
+
+@model FreeMovie
+
+<div class="card text-center">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <p class="card-text">@Model.Description</p>
+        <p class="fw-bold text-danger">Bu Film'i' Silmek İstediğinize Emin Misiniz?</p>
+        <a asp-controller="FreeMovie" asp-action="Index" class="btn btn-danger">Hayır</a>
+        <form class="d-inline" asp-controller="FreeMovie" asp-action="Delete" asp-route-id="@Model.Id" method="post">
+            <button class="btn btn-success">Evet</button>
+        </form>
+    </div>
+    <div class="card-footer text-body-secondary">@Model.Name</div>
+</div>

@@ -1,0 +1,62 @@
+﻿@{
+    Layout = "_FreeMovieAdminLayout";
+}
+@model List<FreeMovie>
+
+<div class="d-flex align-items-center justify-content-between py-2 px-1 my-2">
+    <h1>Free Movie</h1>
+    <a class="btn btn-primary bg-success" asp-action="Create">Ekle</a>
+</div>
+
+<table class="table table-bordered table-striped">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>ReleaseYear</th>
+        <th>Desctiption</th>
+        <th>IsNew</th>
+        <th>ThisWeek</th>
+        <th>IsFree</th>
+        <th>UserPoint</th>
+        <th>Image</th>
+        <th>BannerImage</th>
+        <th> </th>
+    </tr>
+
+    @foreach (var freemovie in Model)
+    {
+        <tr>
+            <td>@freemovie.Id</td>
+            <td>@freemovie.Name</td>
+            <td>@freemovie.ReleaseYear</td>
+            <td>@freemovie.Description</td>
+            <td>@freemovie.IsNew</td>
+            <td>@freemovie.ThisWeek</td>
+            <td>@freemovie.Free</td>
+            <td>@freemovie.UserPoint</td>
+            <td>@freemovie.Image</td>
+            <td>@freemovie.BannerImage</td>
+
+            <td><a asp-controller="FreeMovie" asp-action="Delete" asp-route-id="@freemovie.Id" class="text-danger">Sil</a></td>
+
+        </tr>
+    }
+</table>
+
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalLabel">Modal title</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                ...
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+        </div>
+    </div>
+</div>

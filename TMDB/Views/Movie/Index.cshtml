@@ -1,0 +1,62 @@
+﻿@{
+    Layout = "_MovieAdminLayout";
+}
+@model List<Movie>
+
+<div class="d-flex align-items-center justify-content-between py-2 px-1 my-2">
+    <h1>Movie</h1>
+    <a class="btn btn-primary bg-success" asp-action="Create">Ekle</a>
+</div>
+
+<table class="table table-bordered table-striped">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>ReleaseYear</th>
+        <th>Desctiption</th>
+        <th>IsPopuler</th>
+        <th>IsNew</th>
+        <th>ThisWeek</th>
+        <th>UserPoint</th>
+        <th>Image</th>
+        <th>BannerImage</th>
+        <th> </th>
+    </tr>
+
+    @foreach (var movie in Model)
+    {
+        <tr>
+            <td>@movie.Id</td>
+            <td>@movie.Name</td>
+            <td>@movie.ReleaseYear</td>
+            <td>@movie.Description</td>
+            <td>@movie.IsPopular</td>
+            <td>@movie.IsNew</td>
+            <td>@movie.ThisWeek</td>
+            <td>@movie.UserPoint</td>
+            <td>@movie.Image</td>
+            <td>@movie.BannerImage</td>
+
+            @*<td><a asp-controller="Product" asp-action="Delete" asp-route-id="@product.Id" class="text-danger">Sil</a></td>*@
+            <td><a asp-controller="Movie" asp-action="Delete" asp-route-id="@movie.Id" class="text-danger">Sil</a></td>
+        </tr>
+    }
+</table>
+
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalLabel">Modal title</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                ...
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+        </div>
+    </div>
+</div>

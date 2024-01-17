@@ -1,0 +1,174 @@
+﻿
+@model TMDB.ViewModels.HomePage
+
+
+<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+<div class="bbbootstrap">
+    <div class="container">
+        <form>
+            <div class="Title-banner">
+                <h1><strong>Welcome</strong></h1>
+                <h2 >Millions of movies, TV shows and people to discover. Discover now</h2>
+
+            </div>
+            <span role="status" aria-li
+            ve="polite" class="ui-helper-hidden-accessible"></span><input type="text" id="Form_Search" value="" placeholder="Movies, series, persons, search..." role="searchbox" class="InputBox " autocomplete="off"><input type="submit" id="Form_Go" class="Button" value="Search">
+        </form>
+    </div>
+</div>
+
+
+<h3> Trend</h3>
+
+
+
+
+
+<div class="scrolling-wrapper row flex-row flex-nowrap mt-4 pb-4 pt-2 gap-5">
+@foreach (var movie in Model.Movies)
+{
+        <div class="col-5 movie-card">
+            <div>
+            <a href="@Url.Action("Detail","Home",new {id=movie.Id})">
+                <img src="/img/MovieImage/@movie.Image"> 
+            </a>
+                <div class="circular-progress">
+                    <div class="value-container">@movie.UserPoint %</div>
+                </div>
+
+			<div class="movie-label">
+			  @if (movie.IsNew == false)
+			  {
+			  <span class="new"></span>
+			  }
+			  @if (movie.IsNew == true){
+			  <span class="new">NEW</span>
+			  }
+			</div>
+
+                <div class="movie-label2">
+                    @if (movie.ThisWeek == false)
+                    {
+                        <span class="new"></span>
+                    }
+                    @if (movie.ThisWeek == true)
+                    {
+                        <span class="new">THIS WEEK</span>
+                    }
+                </div>
+
+            </div>
+
+            <h6>
+                @movie.Name <br />
+            </h6>
+            <p>@movie.ReleaseYear</p>
+        </div>
+
+       
+
+
+
+<script>
+    let progressBar = document.querySelector(".circular-progress");
+    let valueContainer = document.querySelector(".value-container");
+
+    let progressValue = 0;
+    let progressEndValue = @movie.UserPoint;
+    let speed = 30;
+
+    let progress = setInterval(() => {
+        progressValue++;
+        valueContainer.textContent = `${progressValue}%`;
+        progressBar.style.background = `conic-gradient(
+                  limegreen ${progressValue * 3.6}deg,
+                  rgb(78, 78, 78) ${progressValue * 3.6}deg
+      )`;
+        if (progressValue == progressEndValue) {
+            clearInterval(progress);
+        }
+    }, speed);
+
+</script>
+
+}
+
+
+
+
+</div>
+
+<h3> İzlemesi Ücretsiz</h3>
+
+<div class="scrolling-wrapper row flex-row flex-nowrap mt-4 pb-4 pt-2 gap-5">
+    @foreach (var freemovie in Model.FreeMovie)
+    {
+        <div class="col-5 movie-card">
+            <div>
+                <a href="@Url.Action("FreeMovieDetail","Home",new {id=freemovie.Id})">
+                    <img src="/img/MovieImage/@freemovie.Image">
+                </a>
+                <div class="circular-progress">
+                    <div class="value-container">@freemovie.UserPoint %</div>
+                </div>
+
+
+                <div class="movie-label">
+                    @if (freemovie.IsNew == false)
+                    {
+                        <span class="new"></span>
+                    }
+                    @if (freemovie.IsNew == true)
+                    {
+                        <span class="new">NEW</span>
+                    }
+                </div>
+
+                <div class="movie-label2">
+                    @if (freemovie.ThisWeek == false)
+                    {
+                        <span class="new"></span>
+                    }
+                    @if (freemovie.ThisWeek == true)
+                    {
+                        <span class="new">THIS WEEK</span>
+                    }
+                </div>
+
+            </div>
+
+            <h6>
+                @freemovie.Name <br />
+            </h6>
+            <p>@freemovie.ReleaseYear</p>
+        </div>
+
+
+
+        <script>
+            let progressBar = document.querySelector(".circular-progress");
+            let valueContainer = document.querySelector(".value-container");
+
+            let progressValue = 0;
+            let progressEndValue = @freemovie.UserPoint;
+            let speed = 30;
+
+            let progress = setInterval(() => {
+                progressValue++;
+                valueContainer.textContent = `${progressValue}%`;
+                progressBar.style.background = `conic-gradient(
+                              limegreen ${progressValue * 3.6}deg,
+                              rgb(78, 78, 78) ${progressValue * 3.6}deg
+                  )`;
+                if (progressValue == progressEndValue) {
+                    clearInterval(progress);
+                }
+            }, speed);
+
+        </script>
+
+    }
+
+</div>
+
+

@@ -1,0 +1,99 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TMDB
+build_property.RootNamespace = TMDB
+build_property.ProjectDir = C:\Users\okanc\OneDrive\Masaüstü\2024-2025\Web Development\2022-2023\TMDB-Proje\TMDB\TMDB\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\okanc\OneDrive\Masaüstü\2024-2025\Web Development\2022-2023\TMDB-Proje\TMDB\TMDB
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/okanc/OneDrive/Masaüstü/2024-2025/Web Development/2022-2023/TMDB-Proje/TMDB/TMDB/Views/FreeMovie/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJlZU1vdmllXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/okanc/OneDrive/Masaüstü/2024-2025/Web Development/2022-2023/TMDB-Proje/TMDB/TMDB/Views/FreeMovie/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJlZU1vdmllXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/okanc/OneDrive/Masaüstü/2024-2025/Web Development/2022-2023/TMDB-Proje/TMDB/TMDB/Views/FreeMovie/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJlZU1vdmllXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/okanc/OneDrive/Masaüstü/2024-2025/Web Development/2022-2023/TMDB-Proje/TMDB/TMDB/Views/Home/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/okanc/OneDrive/Masaüstü/2024-2025/Web Development/2022-2023/TMDB-Proje/TMDB/TMDB/Views/Home/FreeMovieDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGcmVlTW92aWVEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/okanc/OneDrive/Masaüstü/2024-2025/Web Development/2022-2023/TMDB-Proje/TMDB/TMDB/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/okanc/OneDrive/Masaüstü/2024-2025/Web Development/2022-2023/TMDB-Proje/TMDB/TMDB/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/okanc/OneDrive/Masaüstü/2024-2025/Web Development/2022-2023/TMDB-Proje/TMDB/TMDB/Views/Movie/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/okanc/OneDrive/Masaüstü/2024-2025/Web Development/2022-2023/TMDB-Proje/TMDB/TMDB/Views/Movie/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/okanc/OneDrive/Masaüstü/2024-2025/Web Development/2022-2023/TMDB-Proje/TMDB/TMDB/Views/Movie/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/okanc/OneDrive/Masaüstü/2024-2025/Web Development/2022-2023/TMDB-Proje/TMDB/TMDB/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/okanc/OneDrive/Masaüstü/2024-2025/Web Development/2022-2023/TMDB-Proje/TMDB/TMDB/Views/Shared/Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEZvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/okanc/OneDrive/Masaüstü/2024-2025/Web Development/2022-2023/TMDB-Proje/TMDB/TMDB/Views/Shared/Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5hdmJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/okanc/OneDrive/Masaüstü/2024-2025/Web Development/2022-2023/TMDB-Proje/TMDB/TMDB/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/okanc/OneDrive/Masaüstü/2024-2025/Web Development/2022-2023/TMDB-Proje/TMDB/TMDB/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/okanc/OneDrive/Masaüstü/2024-2025/Web Development/2022-2023/TMDB-Proje/TMDB/TMDB/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/okanc/OneDrive/Masaüstü/2024-2025/Web Development/2022-2023/TMDB-Proje/TMDB/TMDB/Views/Shared/_FreeMovieAdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9GcmVlTW92aWVBZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-1s160cq05m
+
+[C:/Users/okanc/OneDrive/Masaüstü/2024-2025/Web Development/2022-2023/TMDB-Proje/TMDB/TMDB/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-holyy06p7l
+
+[C:/Users/okanc/OneDrive/Masaüstü/2024-2025/Web Development/2022-2023/TMDB-Proje/TMDB/TMDB/Views/Shared/_LayoutDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXREZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-u7rqx8gyut
+
+[C:/Users/okanc/OneDrive/Masaüstü/2024-2025/Web Development/2022-2023/TMDB-Proje/TMDB/TMDB/Views/Shared/_MovieAdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Nb3ZpZUFkbWluTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-qu4kf7jozi
