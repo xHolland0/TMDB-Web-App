@@ -24,6 +24,7 @@
 | Risk Discription  | Risk Level | Impact On The Project | Solutions |
 | ------------- | ------------- | ------------- | ------------- |
 | Admin Management | High | Since there is no authentication, anyone can make changes to the data. | Identity.Api should be used  |
+| User Interface | Low | Users have much less data | More data should be kept in the Database for users  |
 
 ## Technologies and tools to be used
 * MSSQL
@@ -53,7 +54,7 @@ C --> Listing
 
 ```
   ## **- Database Schema to Follow**      
-![ss1](https://github.com/xHolland41/Pattisserie-Desktop-App/assets/81883631/9445092d-19d3-4fc1-a026-6f91438028ee)
+![data](https://github.com/xHolland0/TMDB-Web-App/assets/81883631/0790307c-3386-4b19-9f2d-6d8dd1856466)
 
 
 
