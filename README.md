@@ -1,6 +1,6 @@
 # About The Project
 
-## Index
+### Index
 ![ss1](https://github.com/xHolland0/TMDB-Web-App/assets/81883631/e42e97b3-1396-436b-bdbc-0da94913539b)
 ### Detail
 ![ss2](https://github.com/xHolland0/TMDB-Web-App/assets/81883631/2bc6f397-623a-4644-9a45-43af7616cb27)
