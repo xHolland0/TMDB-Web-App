@@ -17,7 +17,7 @@
 | 2 | Interface Design  | 1 Day  |
 | 3 | Establishing the database  | 1 Day  |
 | 4 | Backend Planning  | 1 Day  |
-| 5 | Backend Codeing  | 1 Day  |
+| 5 | Backend Coding  | 1 Day  |
 | 6 | Testing the Project and Fixing Errors  | 2 Day  |
 
 ## Potential Risks
